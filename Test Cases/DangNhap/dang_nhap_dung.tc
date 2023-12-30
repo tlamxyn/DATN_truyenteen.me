@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Đăng nhập với một số trường hợp đúng</description>
+   <name>dang_nhap_dung</name>
+   <tag>DangNhap, true, tuan</tag>
+   <comment></comment>
+   <testCaseGuid>5a691112-2964-4949-bf8d-41f32923ca36</testCaseGuid>
+</TestCaseEntity>
