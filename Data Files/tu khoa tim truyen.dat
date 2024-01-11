@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>tu khoa tim truyen</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>abcacdab-7d04-46bb-8291-133cb49b6973</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>kh%C3%B4n</data>
+   <data>khi</data>
+   <data>a</data>
+   <data>b</data>
+   <data>%23</data>
+   <data>%25</data>
+   <data>%3A%5Cselect+*+from</data>
+   <data>%2B%3Dsd%40%23%40</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>tentruyen</name>
+      <size>8</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,170 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TimKiem,Chrome 120.0.0.0,,,2024-01-11 13:12:49,2024-01-11 13:16:13,3m - 23.847s,PASSED
+,,,,,,,
+Test Cases/TimKiem_tentruyen,Chrome 120.0.0.0,,,2024-01-11 13:12:50,2024-01-11 13:13:01,11.664s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-11 13:12:50,2024-01-11 13:12:53,3.370s,PASSED
+"navigateToUrl(""https://truyenteen.me/"")",Chrome 120.0.0.0,,,2024-01-11 13:12:53,2024-01-11 13:12:57,3.499s,PASSED
+"click(findTestObject(""Object Repository/Page_Webstie c truyn online/span_""))",Chrome 120.0.0.0,,,2024-01-11 13:12:57,2024-01-11 13:12:58,0.799s,PASSED
+"setText(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), tentruyen)",Chrome 120.0.0.0,,,2024-01-11 13:12:58,2024-01-11 13:12:59,1.873s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,2024-01-11 13:12:59,2024-01-11 13:13:01,1.079s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-11 13:13:01,2024-01-11 13:13:01,0.682s,PASSED
+,,,,,,,
+Test Cases/TimKiem_tentruyen,Chrome 120.0.0.0,,,2024-01-11 13:13:01,2024-01-11 13:13:11,9.455s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-11 13:13:01,2024-01-11 13:13:03,1.569s,PASSED
+"navigateToUrl(""https://truyenteen.me/"")",Chrome 120.0.0.0,,,2024-01-11 13:13:03,2024-01-11 13:13:06,3.081s,PASSED
+"click(findTestObject(""Object Repository/Page_Webstie c truyn online/span_""))",Chrome 120.0.0.0,,,2024-01-11 13:13:06,2024-01-11 13:13:07,1.204s,PASSED
+"setText(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), tentruyen)",Chrome 120.0.0.0,,,2024-01-11 13:13:07,2024-01-11 13:13:09,1.701s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,2024-01-11 13:13:09,2024-01-11 13:13:10,1.122s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-11 13:13:10,2024-01-11 13:13:11,0.765s,PASSED
+,,,,,,,
+Test Cases/TimKiem_tentruyen,Chrome 120.0.0.0,,,2024-01-11 13:13:11,2024-01-11 13:13:20,9.708s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-11 13:13:11,2024-01-11 13:13:12,1.624s,PASSED
+"navigateToUrl(""https://truyenteen.me/"")",Chrome 120.0.0.0,,,2024-01-11 13:13:12,2024-01-11 13:13:16,3.920s,PASSED
+"click(findTestObject(""Object Repository/Page_Webstie c truyn online/span_""))",Chrome 120.0.0.0,,,2024-01-11 13:13:16,2024-01-11 13:13:17,0.803s,PASSED
+"setText(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), tentruyen)",Chrome 120.0.0.0,,,2024-01-11 13:13:17,2024-01-11 13:13:19,1.645s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,2024-01-11 13:13:19,2024-01-11 13:13:20,1.036s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-11 13:13:20,2024-01-11 13:13:20,0.667s,PASSED
+,,,,,,,
+Test Cases/TimKiem_tentruyen,Chrome 120.0.0.0,,,2024-01-11 13:13:20,2024-01-11 13:13:30,9.674s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-11 13:13:20,2024-01-11 13:13:22,1.598s,PASSED
+"navigateToUrl(""https://truyenteen.me/"")",Chrome 120.0.0.0,,,2024-01-11 13:13:22,2024-01-11 13:13:26,3.720s,PASSED
+"click(findTestObject(""Object Repository/Page_Webstie c truyn online/span_""))",Chrome 120.0.0.0,,,2024-01-11 13:13:26,2024-01-11 13:13:27,0.816s,PASSED
+"setText(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), tentruyen)",Chrome 120.0.0.0,,,2024-01-11 13:13:27,2024-01-11 13:13:28,1.773s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,2024-01-11 13:13:28,2024-01-11 13:13:29,1.065s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-11 13:13:29,2024-01-11 13:13:30,0.686s,PASSED
+,,,,,,,
+Test Cases/TimKiem_tentruyen,Chrome 120.0.0.0,,,2024-01-11 13:13:30,2024-01-11 13:13:40,9.958s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-11 13:13:30,2024-01-11 13:13:32,1.604s,PASSED
+"navigateToUrl(""https://truyenteen.me/"")",Chrome 120.0.0.0,,,2024-01-11 13:13:32,2024-01-11 13:13:36,4.022s,PASSED
+"click(findTestObject(""Object Repository/Page_Webstie c truyn online/span_""))",Chrome 120.0.0.0,,,2024-01-11 13:13:36,2024-01-11 13:13:37,0.817s,PASSED
+"setText(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), tentruyen)",Chrome 120.0.0.0,,,2024-01-11 13:13:37,2024-01-11 13:13:38,1.757s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,2024-01-11 13:13:38,2024-01-11 13:13:39,1.043s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-11 13:13:39,2024-01-11 13:13:40,0.699s,PASSED
+,,,,,,,
+Test Cases/TimKiem_tentruyen,Chrome 120.0.0.0,,,2024-01-11 13:13:40,2024-01-11 13:13:49,9.272s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-11 13:13:40,2024-01-11 13:13:42,1.575s,PASSED
+"navigateToUrl(""https://truyenteen.me/"")",Chrome 120.0.0.0,,,2024-01-11 13:13:42,2024-01-11 13:13:45,3.127s,PASSED
+"click(findTestObject(""Object Repository/Page_Webstie c truyn online/span_""))",Chrome 120.0.0.0,,,2024-01-11 13:13:45,2024-01-11 13:13:46,1.253s,PASSED
+"setText(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), tentruyen)",Chrome 120.0.0.0,,,2024-01-11 13:13:46,2024-01-11 13:13:48,1.634s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,2024-01-11 13:13:48,2024-01-11 13:13:49,0.994s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-11 13:13:49,2024-01-11 13:13:49,0.677s,PASSED
+,,,,,,,
+Test Cases/TimKiem_tentruyen,Chrome 120.0.0.0,,,2024-01-11 13:13:49,2024-01-11 13:13:59,9.714s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-11 13:13:49,2024-01-11 13:13:51,1.621s,PASSED
+"navigateToUrl(""https://truyenteen.me/"")",Chrome 120.0.0.0,,,2024-01-11 13:13:51,2024-01-11 13:13:55,3.917s,PASSED
+"click(findTestObject(""Object Repository/Page_Webstie c truyn online/span_""))",Chrome 120.0.0.0,,,2024-01-11 13:13:55,2024-01-11 13:13:56,0.785s,PASSED
+"setText(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), tentruyen)",Chrome 120.0.0.0,,,2024-01-11 13:13:56,2024-01-11 13:13:57,1.517s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,2024-01-11 13:13:57,2024-01-11 13:13:58,1.177s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-11 13:13:58,2024-01-11 13:13:59,0.685s,PASSED
+,,,,,,,
+Test Cases/TimKiem_tentruyen,Chrome 120.0.0.0,,,2024-01-11 13:13:59,2024-01-11 13:14:09,9.635s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-11 13:13:59,2024-01-11 13:14:01,1.573s,PASSED
+"navigateToUrl(""https://truyenteen.me/"")",Chrome 120.0.0.0,,,2024-01-11 13:14:01,2024-01-11 13:14:03,2.647s,PASSED
+"click(findTestObject(""Object Repository/Page_Webstie c truyn online/span_""))",Chrome 120.0.0.0,,,2024-01-11 13:14:03,2024-01-11 13:14:05,1.265s,PASSED
+"setText(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), tentruyen)",Chrome 120.0.0.0,,,2024-01-11 13:14:05,2024-01-11 13:14:06,1.658s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,2024-01-11 13:14:06,2024-01-11 13:14:08,1.812s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-11 13:14:08,2024-01-11 13:14:09,0.669s,PASSED
+,,,,,,,
+Test Cases/TimKiem_tentruyen,Chrome 120.0.0.0,,,2024-01-11 13:14:09,2024-01-11 13:14:19,9.681s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-11 13:14:09,2024-01-11 13:14:10,1.602s,PASSED
+"navigateToUrl(""https://truyenteen.me/"")",Chrome 120.0.0.0,,,2024-01-11 13:14:10,2024-01-11 13:14:15,4.063s,PASSED
+"click(findTestObject(""Object Repository/Page_Webstie c truyn online/span_""))",Chrome 120.0.0.0,,,2024-01-11 13:14:15,2024-01-11 13:14:15,0.819s,PASSED
+"setText(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), tentruyen)",Chrome 120.0.0.0,,,2024-01-11 13:14:15,2024-01-11 13:14:17,1.365s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,2024-01-11 13:14:17,2024-01-11 13:14:18,1.148s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-11 13:14:18,2024-01-11 13:14:19,0.674s,PASSED
+,,,,,,,
+Test Cases/TimKiem_tentruyen,Chrome 120.0.0.0,,,2024-01-11 13:14:19,2024-01-11 13:14:28,9.465s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-11 13:14:19,2024-01-11 13:14:20,1.563s,PASSED
+"navigateToUrl(""https://truyenteen.me/"")",Chrome 120.0.0.0,,,2024-01-11 13:14:20,2024-01-11 13:14:24,3.722s,PASSED
+"click(findTestObject(""Object Repository/Page_Webstie c truyn online/span_""))",Chrome 120.0.0.0,,,2024-01-11 13:14:24,2024-01-11 13:14:25,0.833s,PASSED
+"setText(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), tentruyen)",Chrome 120.0.0.0,,,2024-01-11 13:14:25,2024-01-11 13:14:26,1.659s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,2024-01-11 13:14:26,2024-01-11 13:14:27,1.013s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-11 13:14:27,2024-01-11 13:14:28,0.667s,PASSED
+,,,,,,,
+Test Cases/TimKiem_tentruyen,Chrome 120.0.0.0,,,2024-01-11 13:14:28,2024-01-11 13:14:38,9.487s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-11 13:14:28,2024-01-11 13:14:30,1.604s,PASSED
+"navigateToUrl(""https://truyenteen.me/"")",Chrome 120.0.0.0,,,2024-01-11 13:14:30,2024-01-11 13:14:34,3.994s,PASSED
+"click(findTestObject(""Object Repository/Page_Webstie c truyn online/span_""))",Chrome 120.0.0.0,,,2024-01-11 13:14:34,2024-01-11 13:14:34,0.751s,PASSED
+"setText(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), tentruyen)",Chrome 120.0.0.0,,,2024-01-11 13:14:34,2024-01-11 13:14:36,1.377s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,2024-01-11 13:14:36,2024-01-11 13:14:37,1.074s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-11 13:14:37,2024-01-11 13:14:38,0.678s,PASSED
+,,,,,,,
+Test Cases/TimKiem_tentruyen,Chrome 120.0.0.0,,,2024-01-11 13:14:38,2024-01-11 13:14:47,9.570s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-11 13:14:38,2024-01-11 13:14:39,1.590s,PASSED
+"navigateToUrl(""https://truyenteen.me/"")",Chrome 120.0.0.0,,,2024-01-11 13:14:39,2024-01-11 13:14:43,3.788s,PASSED
+"click(findTestObject(""Object Repository/Page_Webstie c truyn online/span_""))",Chrome 120.0.0.0,,,2024-01-11 13:14:43,2024-01-11 13:14:44,0.806s,PASSED
+"setText(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), tentruyen)",Chrome 120.0.0.0,,,2024-01-11 13:14:44,2024-01-11 13:14:45,1.487s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,2024-01-11 13:14:45,2024-01-11 13:14:46,1.209s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-11 13:14:46,2024-01-11 13:14:47,0.683s,PASSED
+,,,,,,,
+Test Cases/TimKiem_tentruyen,Chrome 120.0.0.0,,,2024-01-11 13:14:47,2024-01-11 13:14:56,9.204s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-11 13:14:47,2024-01-11 13:14:49,1.618s,PASSED
+"navigateToUrl(""https://truyenteen.me/"")",Chrome 120.0.0.0,,,2024-01-11 13:14:49,2024-01-11 13:14:52,3.670s,PASSED
+"click(findTestObject(""Object Repository/Page_Webstie c truyn online/span_""))",Chrome 120.0.0.0,,,2024-01-11 13:14:52,2024-01-11 13:14:53,0.826s,PASSED
+"setText(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), tentruyen)",Chrome 120.0.0.0,,,2024-01-11 13:14:53,2024-01-11 13:14:55,1.326s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,2024-01-11 13:14:55,2024-01-11 13:14:56,1.080s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-11 13:14:56,2024-01-11 13:14:56,0.672s,PASSED
+,,,,,,,
+Test Cases/TimKiem_tentruyen,Chrome 120.0.0.0,,,2024-01-11 13:14:56,2024-01-11 13:15:05,9.106s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-11 13:14:56,2024-01-11 13:14:58,1.608s,PASSED
+"navigateToUrl(""https://truyenteen.me/"")",Chrome 120.0.0.0,,,2024-01-11 13:14:58,2024-01-11 13:15:01,3.328s,PASSED
+"click(findTestObject(""Object Repository/Page_Webstie c truyn online/span_""))",Chrome 120.0.0.0,,,2024-01-11 13:15:01,2024-01-11 13:15:03,1.206s,PASSED
+"setText(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), tentruyen)",Chrome 120.0.0.0,,,2024-01-11 13:15:03,2024-01-11 13:15:04,1.238s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,2024-01-11 13:15:04,2024-01-11 13:15:05,1.045s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-11 13:15:05,2024-01-11 13:15:05,0.671s,PASSED
+,,,,,,,
+Test Cases/TimKiem_tentruyen,Chrome 120.0.0.0,,,2024-01-11 13:15:06,2024-01-11 13:15:15,9.496s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-11 13:15:06,2024-01-11 13:15:07,1.589s,PASSED
+"navigateToUrl(""https://truyenteen.me/"")",Chrome 120.0.0.0,,,2024-01-11 13:15:07,2024-01-11 13:15:11,3.784s,PASSED
+"click(findTestObject(""Object Repository/Page_Webstie c truyn online/span_""))",Chrome 120.0.0.0,,,2024-01-11 13:15:11,2024-01-11 13:15:12,0.797s,PASSED
+"setText(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), tentruyen)",Chrome 120.0.0.0,,,2024-01-11 13:15:12,2024-01-11 13:15:13,1.618s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,2024-01-11 13:15:13,2024-01-11 13:15:14,1.019s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-11 13:15:14,2024-01-11 13:15:15,0.677s,PASSED
+,,,,,,,
+Test Cases/TimKiem_tentruyen,Chrome 120.0.0.0,,,2024-01-11 13:15:15,2024-01-11 13:15:25,9.935s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-11 13:15:15,2024-01-11 13:15:17,1.586s,PASSED
+"navigateToUrl(""https://truyenteen.me/"")",Chrome 120.0.0.0,,,2024-01-11 13:15:17,2024-01-11 13:15:21,4.190s,PASSED
+"click(findTestObject(""Object Repository/Page_Webstie c truyn online/span_""))",Chrome 120.0.0.0,,,2024-01-11 13:15:21,2024-01-11 13:15:22,0.844s,PASSED
+"setText(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), tentruyen)",Chrome 120.0.0.0,,,2024-01-11 13:15:22,2024-01-11 13:15:23,1.529s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,2024-01-11 13:15:23,2024-01-11 13:15:24,1.086s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-11 13:15:24,2024-01-11 13:15:25,0.690s,PASSED
+,,,,,,,
+Test Cases/TimKiem_tentruyen,Chrome 120.0.0.0,,,2024-01-11 13:15:25,2024-01-11 13:15:35,9.936s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-11 13:15:25,2024-01-11 13:15:27,1.571s,PASSED
+"navigateToUrl(""https://truyenteen.me/"")",Chrome 120.0.0.0,,,2024-01-11 13:15:27,2024-01-11 13:15:31,4.533s,PASSED
+"click(findTestObject(""Object Repository/Page_Webstie c truyn online/span_""))",Chrome 120.0.0.0,,,2024-01-11 13:15:31,2024-01-11 13:15:32,0.728s,PASSED
+"setText(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), tentruyen)",Chrome 120.0.0.0,,,2024-01-11 13:15:32,2024-01-11 13:15:33,1.406s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,2024-01-11 13:15:33,2024-01-11 13:15:34,1.056s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-11 13:15:34,2024-01-11 13:15:35,0.634s,PASSED
+,,,,,,,
+Test Cases/TimKiem_tentruyen,Chrome 120.0.0.0,,,2024-01-11 13:15:35,2024-01-11 13:15:45,9.566s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-11 13:15:35,2024-01-11 13:15:37,1.592s,PASSED
+"navigateToUrl(""https://truyenteen.me/"")",Chrome 120.0.0.0,,,2024-01-11 13:15:37,2024-01-11 13:15:41,4.150s,PASSED
+"click(findTestObject(""Object Repository/Page_Webstie c truyn online/span_""))",Chrome 120.0.0.0,,,2024-01-11 13:15:41,2024-01-11 13:15:41,0.786s,PASSED
+"setText(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), tentruyen)",Chrome 120.0.0.0,,,2024-01-11 13:15:41,2024-01-11 13:15:43,1.321s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,2024-01-11 13:15:43,2024-01-11 13:15:44,1.006s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-11 13:15:44,2024-01-11 13:15:45,0.700s,PASSED
+,,,,,,,
+Test Cases/TimKiem_tentruyen,Chrome 120.0.0.0,,,2024-01-11 13:15:45,2024-01-11 13:15:54,9.700s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-11 13:15:45,2024-01-11 13:15:46,1.634s,PASSED
+"navigateToUrl(""https://truyenteen.me/"")",Chrome 120.0.0.0,,,2024-01-11 13:15:46,2024-01-11 13:15:50,3.490s,PASSED
+"click(findTestObject(""Object Repository/Page_Webstie c truyn online/span_""))",Chrome 120.0.0.0,,,2024-01-11 13:15:50,2024-01-11 13:15:51,1.217s,PASSED
+"setText(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), tentruyen)",Chrome 120.0.0.0,,,2024-01-11 13:15:51,2024-01-11 13:15:52,1.488s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,2024-01-11 13:15:52,2024-01-11 13:15:54,1.134s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-11 13:15:54,2024-01-11 13:15:54,0.727s,PASSED
+,,,,,,,
+Test Cases/TimKiem_tentruyen,Chrome 120.0.0.0,,,2024-01-11 13:15:54,2024-01-11 13:16:04,9.539s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-11 13:15:54,2024-01-11 13:15:56,1.595s,PASSED
+"navigateToUrl(""https://truyenteen.me/"")",Chrome 120.0.0.0,,,2024-01-11 13:15:56,2024-01-11 13:16:00,3.818s,PASSED
+"click(findTestObject(""Object Repository/Page_Webstie c truyn online/span_""))",Chrome 120.0.0.0,,,2024-01-11 13:16:00,2024-01-11 13:16:00,0.810s,PASSED
+"setText(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), tentruyen)",Chrome 120.0.0.0,,,2024-01-11 13:16:00,2024-01-11 13:16:02,1.330s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,2024-01-11 13:16:02,2024-01-11 13:16:03,1.294s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-11 13:16:03,2024-01-11 13:16:04,0.684s,PASSED
+,,,,,,,
+Test Cases/TimKiem_tentruyen,Chrome 120.0.0.0,,,2024-01-11 13:16:04,2024-01-11 13:16:13,9.242s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-11 13:16:04,2024-01-11 13:16:05,1.603s,PASSED
+"navigateToUrl(""https://truyenteen.me/"")",Chrome 120.0.0.0,,,2024-01-11 13:16:05,2024-01-11 13:16:09,3.633s,PASSED
+"click(findTestObject(""Object Repository/Page_Webstie c truyn online/span_""))",Chrome 120.0.0.0,,,2024-01-11 13:16:09,2024-01-11 13:16:10,0.603s,PASSED
+"setText(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), tentruyen)",Chrome 120.0.0.0,,,2024-01-11 13:16:10,2024-01-11 13:16:11,1.633s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,2024-01-11 13:16:11,2024-01-11 13:16:12,1.057s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-11 13:16:12,2024-01-11 13:16:13,0.704s,PASSED

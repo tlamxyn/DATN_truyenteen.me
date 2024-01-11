@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Nng cao</name>
+   <tag></tag>
+   <elementGuidId>ef3abd90-a321-4f64-9b92-0f50dfbbf9ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/ul/li[3]/div/div/div/div/a[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4c0bbdeb-d35a-423a-a24c-328b8300f42b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>3d05b42c-71d3-4245-b97e-55babd1704ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://truyenteen.me/fillter</value>
+      <webElementGuid>557ebe08-d1e1-4d9c-a164-40d4fe46d3c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nâng cao</value>
+      <webElementGuid>4926ec48-bbc0-4e60-9cd4-8c40e39e7a91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/ul[@class=&quot;navbar-nav m-auto&quot;]/li[@class=&quot;nav-item dropdown has-mega-menu mr-2 show&quot;]/div[@class=&quot;dropdown-menu show&quot;]/div[@class=&quot;px-0 container container-x&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-6 col-md-x&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>fa8335cd-9849-4575-ae05-6821dae76ccf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/ul/li[3]/div/div/div/div/a[4]</value>
+      <webElementGuid>d8ae5b3a-76db-4be1-8ee6-20138b1f60bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Nâng cao')]</value>
+      <webElementGuid>830ce702-f50a-4e1e-bf36-44ce344191d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hoàn thành'])[1]/following::a[1]</value>
+      <webElementGuid>2a8ce3af-66e0-4bd3-b89c-58c8a1fd7160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dưới 100 chap'])[1]/following::a[2]</value>
+      <webElementGuid>bb06e68b-e529-4f97-81ae-2603eedaa100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lịch sử'])[1]/preceding::a[1]</value>
+      <webElementGuid>8e19c158-4a60-4e8a-9cce-038bbde8043a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sáng'])[1]/preceding::a[3]</value>
+      <webElementGuid>345b8213-40b4-4b72-b10d-3b4a2814ef02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nâng cao']/parent::*</value>
+      <webElementGuid>9c42bfcb-4fd7-44a0-b36c-1e63f2868349</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://truyenteen.me/fillter')]</value>
+      <webElementGuid>9ef173ae-455b-4676-9546-79804e164d83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div/div/div/a[4]</value>
+      <webElementGuid>9b623a22-39f2-4396-9c3d-fc9801a62bd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://truyenteen.me/fillter' and (text() = 'Nâng cao' or . = 'Nâng cao')]</value>
+      <webElementGuid>7ec28b72-9968-4749-9988-c273d1f65793</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TimKiem_tentruyen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a7daf75-9097-42f9-bd60-4ff0516a44ad</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a94af65f-afbe-400d-9bc0-13a0dbdb7bd6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'khi'</defaultValue>
+      <description></description>
+      <id>a94af65f-afbe-400d-9bc0-13a0dbdb7bd6</id>
+      <masked>false</masked>
+      <name>tentruyen</name>
+   </variable>
+</TestCaseEntity>

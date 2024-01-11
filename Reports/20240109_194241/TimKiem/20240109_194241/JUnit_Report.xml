@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TimKiem" time="12.536" tests="1" failures="0" errors="0">
+   <testsuite name="TimKiem" tests="1" failures="0" errors="0" time="12.536" skipped="0" timestamp="2024-01-09 19:42:45" hostname="DELL - DESKTOP-T835F3C" id="Test Suites/TimKiem">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\MONHOC\\DoAnTotNghiep_2\\automation\\DATN_truyenteen.me\\Reports\\20240109_194241\\TimKiem\\20240109_194241"/>
+         <property name="logFiles" value="D:\\MONHOC\\DoAnTotNghiep_2\\automation\\DATN_truyenteen.me\\Reports\\20240109_194241\\TimKiem\\20240109_194241\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="DELL - DESKTOP-T835F3C"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 120.0.0.0"/>
+         <property name="hostAddress" value="192.168.85.1"/>
+         <property name="sessionId" value="2dc320cb31eaeb20645297d4155cf361"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TimKiem_tentruyen" time="12.211" classname="Test Cases/TimKiem_tentruyen" status="PASSED">
+         <system-out><![CDATA[2024-01-09 19:42:45 - [TEST_CASE][PASSED] - Test Cases/TimKiem_tentruyen: Test Cases/TimKiem_tentruyen
+
+2024-01-09 19:42:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-01-09 19:42:46 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-01-09 19:42:46 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-01-09 19:42:49 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-01-09 19:42:49 - [TEST_STEP][PASSED] - navigateToUrl("https://truyenteen.me/"): Navigate to 'https://truyenteen.me/' successfully
+
+2024-01-09 19:42:53 - [MESSAGE][PASSED] - Navigate to 'https://truyenteen.me/' successfully
+
+2024-01-09 19:42:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Webstie c truyn online/span_")): Object: 'Object Repository/Page_Webstie c truyn online/span_' is clicked on
+
+2024-01-09 19:42:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Webstie c truyn online/span_' is clicked on
+
+2024-01-09 19:42:54 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Webstie c truyn online/input_Ti_search"), tentruyen): Text 'khi' is set on object 'Object Repository/Page_Webstie c truyn online/input_Ti_search'
+
+2024-01-09 19:42:55 - [MESSAGE][PASSED] - Text 'khi' is set on object 'Object Repository/Page_Webstie c truyn online/input_Ti_search'
+
+2024-01-09 19:42:55 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Webstie c truyn online/input_Ti_search"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Webstie c truyn online/input_Ti_search'
+
+2024-01-09 19:42:56 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Webstie c truyn online/input_Ti_search'
+
+2024-01-09 19:42:56 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-01-09 19:42:57 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-01-09 19:42:45 - [TEST_SUITE][PASSED] - TimKiem: Test Cases/TimKiem_tentruyen]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

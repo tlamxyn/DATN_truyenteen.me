@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TimKiem</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>e49f994d-6f3f-4bfb-9d97-d2b084da22f1</testSuiteGuid>
+   <testCaseLink>
+      <guid>1f0d51a0-b979-4c9c-9645-4d17c938afed</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'khi'</defaultValue>
+         <description></description>
+         <id>a94af65f-afbe-400d-9bc0-13a0dbdb7bd6</id>
+         <masked>false</masked>
+         <name>tentruyen</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/TimKiem_tentruyen</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>2a0cbff6-922a-46af-b672-5289ccf5a253</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/tukhoa_excel</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>2a0cbff6-922a-46af-b672-5289ccf5a253</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tukhoa</value>
+         <variableId>a94af65f-afbe-400d-9bc0-13a0dbdb7bd6</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ec78d3b8-8905-4b04-b1b2-7876547522ab</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'khi'</defaultValue>
+         <description></description>
+         <id>a94af65f-afbe-400d-9bc0-13a0dbdb7bd6</id>
+         <masked>false</masked>
+         <name>tentruyen</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/TimKiem_tentruyen</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>3a4a163c-0a82-4c82-a74b-ba5905d1187c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/tu khoa tim truyen</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>3a4a163c-0a82-4c82-a74b-ba5905d1187c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tentruyen</value>
+         <variableId>a94af65f-afbe-400d-9bc0-13a0dbdb7bd6</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

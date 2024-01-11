@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TimKiem,Chrome 120.0.0.0,,,2024-01-09 19:42:45,2024-01-09 19:42:57,12.536s,PASSED
+,,,,,,,
+Test Cases/TimKiem_tentruyen,Chrome 120.0.0.0,,,2024-01-09 19:42:45,2024-01-09 19:42:57,12.211s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-09 19:42:45,2024-01-09 19:42:49,3.213s,PASSED
+"navigateToUrl(""https://truyenteen.me/"")",Chrome 120.0.0.0,,,2024-01-09 19:42:49,2024-01-09 19:42:53,4.087s,PASSED
+"click(findTestObject(""Object Repository/Page_Webstie c truyn online/span_""))",Chrome 120.0.0.0,,,2024-01-09 19:42:53,2024-01-09 19:42:54,0.909s,PASSED
+"setText(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), tentruyen)",Chrome 120.0.0.0,,,2024-01-09 19:42:54,2024-01-09 19:42:55,1.607s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Webstie c truyn online/input_Ti_search""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,2024-01-09 19:42:55,2024-01-09 19:42:56,0.987s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-09 19:42:56,2024-01-09 19:42:57,0.825s,PASSED
